@@ -30,6 +30,13 @@ Once Tampermonkey is installed in your browser, follow these steps to add this u
 ![How to create new script](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20150840.png)
 
 ---
+## 🎥 Video Tutorial: How to Use This Script
+
+If you're new to Tampermonkey or unsure how to run this userscript, no worries! Watch this step-by-step video guide that walks you through the entire process from start to finish:
+
+👉 [Video Tutorial](./media/Usage%20Video%20with%20Full%20Demonstration.md)
+
+---
 
 ## 🛠 Example Use Case
 
