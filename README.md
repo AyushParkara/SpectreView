@@ -24,7 +24,7 @@ Once Tampermonkey is installed in your browser, follow these steps to add this u
 2. Choose **"Dashboard"** from the dropdown.
 3. Click on the **"+" (Create a new script)** button.
 4. Remove the default code that appears.
-5. Copy the entire code from the provided userscript file in this repo (e.g., [`Script.js`](./Script.js)) and paste it into the editor.
+5. Copy the entire code from the provided userscript file in this repo (e.g., [`SpectreView.user.js`](./src/SpectreView.user.js)) and paste it into the editor.
 6. Click **File → Save** or use the **Ctrl+S** shortcut.
 
 ![How to create new script](https://github.com/AnuragBathani/Privacy-Fronted-Redirection-script-Using-Temper-Monkey/blob/main/images/Screenshot%202025-05-14%20150840.png)
@@ -40,14 +40,24 @@ If you're new to Tampermonkey or unsure how to run this userscript, no worries! 
 
 ## 🛠 Example Use Case
 
-This userscript enhances your web browsing experience with privacy-focused redirections and content access:
+This userscript enhances your web browsing experience with **privacy-focused redirections and seamless content access**, helping you view public content **without login interruptions**.
 
-- 🔁 Automatically redirects `x.com` (Twitter) links to [nitter.net](https://nitter.net) — a privacy-respecting frontend.
-- 📚 Opens Medium premium articles for free using [archive.is](https://archive.is).
-- 🔓 Allows you to view public Instagram profiles without logging in by bypassing the login wall.
+* 🔁 **Twitter (`x.com`)**
+  Automatically hides login prompts and overlays, allowing you to read tweets and explore profiles without being signed in.
 
-These features work automatically in the background once the script is installed — no need to click anything!
+* 🔓 **Instagram**
+  Bypasses the login wall when viewing public profiles or posts, so you can scroll freely without interruption.
 
+* 🧵 **Reddit**
+  Removes the "Join Reddit" banner and login popup, letting you read threads, comments, and posts without an account.
+
+* ❓ **Quora**
+  Disables the "Continue Reading" overlay and blur effect so you can view full answers without needing to log in.
+
+* 📚 **Medium**
+  Automatically redirects premium article links to [archive.is](https://archive.is), giving you full access to public posts without encountering paywalls.
+
+These features run silently in the background after installation — no buttons, no toggles, no fuss.
 
 ---
 
