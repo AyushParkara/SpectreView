@@ -9,7 +9,7 @@ This video showcases **how to use SpectreView** after it’s installed via Tampe
 * **Medium** – Reading articles without overlay interruptions
 * **Instagram & LinkedIn** – Scrolling through posts and profiles without forced sign-ins
 
-> 🔔 *Note: This video does **not** cover installation. For installation steps, refer to [docs/usage.md](../docs/usage.md).*
+> 🔔 *Note: This video does **not** cover installation. For installation steps, refer to [docs/usage.md](./docs/Temper%20Monkey%20Installation.md).*
 
 ---
 
