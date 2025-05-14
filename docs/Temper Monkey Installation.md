@@ -56,4 +56,7 @@ You have successfully installed Tampermonkey on your Chrome browser. You can now
 
 For more help, visit the official documentation at [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
 
+Or you can check my own notes also which are based on the documentation 
+👉 [Tamper Monkey Detailed explaination and working](./docs/Tamper%20Monkey%20Intro.md)
+
 ---
