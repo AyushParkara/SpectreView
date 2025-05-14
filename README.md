@@ -1,4 +1,4 @@
-# Privacy-Fronted-Redirection-script-Using-Temper-Monkey
+# SpectreView (Privacy-Fronted-Redirection-script-Using-Temper-Monkey)
 
 Welcome to this Tampermonkey userscript! This script is designed for anyone—whether you're a developer or not—to easily add custom automation or enhancements to your browsing experience with zero JavaScript knowledge required.
 
