@@ -10,7 +10,7 @@ Welcome to this Tampermonkey userscript! This script is designed for anyone—wh
 
 If you haven’t installed Tampermonkey yet, follow this guide first:
 
-👉 [How to Install Tampermonkey in Chrome](./Temper%20Monkey%20Installation.md)
+👉 [How to Install Tampermonkey in Chrome](./docs/Temper%20Monkey%20Installation.md)
 
 Tampermonkey is a browser extension that lets you run custom userscripts on websites. It’s free and secure.
 
